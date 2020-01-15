@@ -18,4 +18,4 @@ opam switch 4.08.0
 
 
 # packages ocaml
-opam install utop dune merlin ocp-indent 
+opam install utop dune merlin ocp-indent ppx_inline_test
